@@ -1,2 +1,2 @@
-# Generic-Blog-Theme
-Generic Blog Theme (from Dash - General Assembly
+# HTML Projects
+HTML Projects from Dash/General Assembly
