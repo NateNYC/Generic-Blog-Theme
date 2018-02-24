@@ -1,3 +1,5 @@
+vim: set syntax=html:
+
 <!DOCTYPE html>
 <head>
   <link href="/normalize.css" rel="stylesheet">
