@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<head>
+  <title>Nathan de Paz</title>
+  <style>
+    body {
+      text-align: center;
+      background: url("http://i.imgur.com/jjha3FS.jpg");
+      background-position: right;
+      color: white;
+      font-family: helvetica;
+    }
+    p {
+      font-size: 22px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <img src="https://assets.about.me/background/users/n/a/t/nathandepaz_1445997359_96.jpg" style="width:300px;" border="10">
+  <p>Hi! I'm Nathan, a NYC-based marketer. Say hello!</p>
+  <input type="email" placeholder="Your email">
+  <input type="submit">
+</body>
