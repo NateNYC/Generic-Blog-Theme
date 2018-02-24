@@ -1,3 +1,5 @@
+vim: set syntax=html:
+
 <!DOCTYPE html>
 <head>
   <title>Nathan de Paz</title>
